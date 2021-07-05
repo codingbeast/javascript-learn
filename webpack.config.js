@@ -1,3 +1,4 @@
+//subscribe https://youtube.com/codingbeast
 const path = require("path");
 const webpack = require("webpack");
 const htmlWebpackPlugin = require("html-webpack-plugin");
