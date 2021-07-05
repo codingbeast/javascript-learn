@@ -8,7 +8,7 @@ Subscribe : https://youtube.com/codingbeast
 4. npm run devserver
 5. Enjoy
 
-## Installation
+## How to use
 1. goto js>>index.js file
 2. always use log for printing the variables. 
 like where you are using console.log replace this with log
